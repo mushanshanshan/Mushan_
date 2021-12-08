@@ -1,4 +1,3 @@
 # Mushan_
 
-这里空无一物
-There is nothing
+First do it, then do it right, then do it beter.
